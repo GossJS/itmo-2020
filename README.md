@@ -10,11 +10,14 @@ XMLT-001
 ```
 [https://kodaktor.ru/g/xml_intro](https://kodaktor.ru/g/xml_intro)
 ```
+
 JSND-001 
 Установка простейших зависимостей
 ```
 https://kodaktor.ru/js01_intro_lr.pdf
+
 http://kodaktor.ru/js01-depend1.pdf
+
 http://kodaktor.ru/js01-depend2.pdf
 ```
 
