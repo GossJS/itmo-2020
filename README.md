@@ -16,3 +16,7 @@
 https://tproger.ru/news/github-languages-rating-2018/
 
 ---
+
+https://gossjs.github.io/ifmo-2019/
+
+---
