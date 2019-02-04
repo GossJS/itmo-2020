@@ -20,7 +20,13 @@ https://kodaktor.ru/js01_intro_lr.pdf
 http://kodaktor.ru/js01-depend1.pdf
 
 http://kodaktor.ru/js01-depend2.pdf
+
+
+```
+RSCH-001
+Проведение микроисследования по языкам
 ```
 
+https://kodaktor.ru/g/rsch_001
  
 
