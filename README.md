@@ -30,3 +30,6 @@ RSCH-001
 https://kodaktor.ru/g/rsch_001
  
 
+https://ide.c9.io/gossoudarev/js-study1
+
+kodent
