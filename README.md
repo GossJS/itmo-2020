@@ -5,10 +5,20 @@
 
 
 ```
-XMLT-001     
+XMLT-001, XMLT-002     
 Разработка языка разметки  
 ```
 [https://kodaktor.ru/g/xml_intro](https://kodaktor.ru/g/xml_intro)
+
+
+```
+XMLT-003    
+Считывание из XML-документа  
+```
+[https://kodaktor.ru/xmlt_003](hhttps://kodaktor.ru/xmlt_003)
+
+
+
 
 
 ```
