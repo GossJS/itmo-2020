@@ -16,7 +16,7 @@ XMLT-003
 Считывание из XML-документа  
 ```
 [https://kodaktor.ru/xmlt_003](hhttps://kodaktor.ru/xmlt_003)
-
+Ответ: https://kodaktor.ru/private_xmlt_003
 
 
 
