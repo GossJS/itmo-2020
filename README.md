@@ -189,6 +189,8 @@ https://kodaktor.ru/iter_001
 FRMW-00*
 to be updated 22.04.2019
 задания по webpack, moment, react, vue, material design
+
+* а также по WebAudio и Canvas
 ```
 
 
