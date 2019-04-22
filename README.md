@@ -184,14 +184,29 @@ ITER_001
 https://kodaktor.ru/iter_001
 
 
+```
+WEBPACK
+```
+https://vimeo.com/286101956
+Краткий теоретический материал + Задание https://kodaktor.ru/modules-t2m.pdf
+Более подробная теория https://kodaktor.ru/modules19022019.pdf
+
 
 ```
 FRMW-00*
 to be updated 22.04.2019
-задания по webpack, moment, react, vue, material design
+задания по react, vue, material design
 
-* а также по WebAudio и Canvas
 ```
+
+
+```
+CANV_001
+
+```
+Теория http://kodaktor.ru/cnvs/theory
+Задание http://kodaktor.ru/cnvs/lr_canvas_rates.pdf
+Визуалиация WebAudio http://kodaktor.ru/piterjs/nesterov
 
 
 ```
