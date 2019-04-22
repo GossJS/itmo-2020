@@ -178,18 +178,17 @@ https://kodaktor.ru/babl_002
 
 
 ```
-ITER_001
+ITER-001
 Итерабельность
 ```
 https://kodaktor.ru/iter_001
 
 
 ```
-WEBPACK
+WEBPACK – BNDL-001
 ```
-https://vimeo.com/286101956
-Краткий теоретический материал + Задание https://kodaktor.ru/modules-t2m.pdf
-Более подробная теория https://kodaktor.ru/modules19022019.pdf
+https://kodaktor.ru/g/bndl_001
+
 
 
 ```
@@ -197,6 +196,11 @@ FRMW-00*
 to be updated 22.04.2019
 задания по react, vue, material design
 
+```
+
+```
+Проект YOU
+https://kodaktor.ru/you
 ```
 
 
