@@ -196,6 +196,12 @@ FRMW-00*
 to be updated 22.04.2019
 задания по react, vue, material design
 
+https://kodaktor.ru/frmw_001 – введение и двусторонное связывание на React
+https://kodaktor.ru/frmw_002 – введене во Vue
+https://kodaktor.ru/frmw_003... frmw_005
+https://kodaktor.ru/frmw_006 – введение в ELM
+https://kodaktor.ru/frmw_007 – Material UI
+
 ```
 
 ```
