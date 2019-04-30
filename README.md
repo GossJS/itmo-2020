@@ -201,6 +201,10 @@ https://kodaktor.ru/frmw_003... frmw_005
 https://kodaktor.ru/frmw_006 – введение в ELM
 https://kodaktor.ru/frmw_007 – Material UI
 
+https://kodaktor.ru/redux_intro – введение в Redux
+
+связующее звено с материалом следующего семестра – клиентский роутер
+
 ```
 
 ```
