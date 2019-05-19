@@ -202,6 +202,7 @@ https://kodaktor.ru/frmw_006 – введение в ELM
 https://kodaktor.ru/frmw_007 – Material UI
 
 https://kodaktor.ru/redux_intro – введение в Redux
+https://kodaktor.ru/effector_intro – введение в Effector (⚡️framework-agnostic)
 
 связующее звено с материалом следующего семестра – клиентский роутер
 
