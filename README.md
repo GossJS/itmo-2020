@@ -197,6 +197,8 @@ https://kodaktor.ru/g/bndl_001
 FRMW-00*
 задания по react, vue, material design
 
+https://kodaktor.ru/g/state – обзор концепций, связанных с состоянием и хранилищем
+
 https://kodaktor.ru/frmw_001 – введение и двусторонное связывание на React
 https://kodaktor.ru/frmw_002 – введение во Vue
 https://kodaktor.ru/frmw_003... frmw_005
