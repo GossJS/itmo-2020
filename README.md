@@ -17,10 +17,22 @@ https://kodaktor.ru/05042019
 
 ```
 CART     
-Разработка фронтэнд-примера  
+Разработка фронтэнд-примера – приоритетное задание с drag and drop, обеспечивает 50% рейтинга
 ```
 https://kodaktor.ru/g/cart
 
+
+```
+Обязательные задания из списка ниже:
+  
+  FUNC_00*
+  ASYNC-TASKS
+  BABL_002
+  EVNT_002
+  FRMW_00*
+  YOU
+
+```
 
 ```
 Курсовая работа     
@@ -194,7 +206,7 @@ https://kodaktor.ru/g/bndl_001
 
 
 ```
-FRMW-00*
+FRMW_00*
 задания по react, vue, material design
 
 https://kodaktor.ru/g/state – обзор концепций, связанных с состоянием и хранилищем
