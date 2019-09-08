@@ -26,16 +26,20 @@ https://kodaktor.ru/effector_intro – введение в Effector (⚡️frame
 связующее звено с материалом предыдущего семестра – состояние, клиентский роутер и SSR
 
 ```
+telnet
+ 
+appver + модуль net
  
 public_secret https://kodaktor.ru/g/public09092019
 
-модуль net
+
+json_server
 
 бенчмаркинг
 
 создание докер-контейнера с портфолио
 
-telnet
+
 
 express
 
@@ -45,7 +49,11 @@ Moodle + SCORM
 
 middleware -> Express + Pug + ... + mongoose
 
+rss_task
+
 Koa
+
+buffer
 
 streams + websockets, riew
 
@@ -58,8 +66,11 @@ PassportJS
 Django etc (Python ecosystem)
 
 PHP Ecosystem
- 
 
+===
+
+blogger_task
+ 
 Темы на выступления и самостоятельный разбор:
 
  * GraphQL vs REST
