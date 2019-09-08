@@ -15,250 +15,56 @@ https://kodaktor.ru/05042019
 
 Результаты выполнения заданий / отчёты должны быть доступны в виде гит-портфолио https://kodaktor.ru/g/webportfolio
 
-```
-CART     
-Разработка фронтэнд-примера – приоритетное задание с drag and drop, обеспечивает 50% рейтинга
-```
-https://kodaktor.ru/g/cart
+Задания весеннего семестра 2019 (фронтэнд): https://github.com/GossJS/ifmo-2019/tree/tasks-2019-spring
 
 
-```
-Обязательные задания из списка ниже:
-  
-  FUNC_00*
-  ASYNC-TASKS
-  BABL_002
-  EVNT_002
-  FRMW_00*
-  YOU
-
-```
-
-```
-Курсовая работа     
-см. список тем;    
-```
-https://fork.kodaktor.ru/kurs2019
-
-
-```
-XMLT-001, XMLT-002     
-Разработка языка разметки  
-```
-[https://kodaktor.ru/g/xml_intro](https://kodaktor.ru/g/xml_intro)
-
-
-```
-XMLT-003    
-Считывание из XML-документа  
-```
-[https://kodaktor.ru/xmlt_003](hhttps://kodaktor.ru/xmlt_003)
-Ответ: https://kodaktor.ru/private_xmlt_003
-
-
-```
-XSL-INTRO    
-Преобразование XML-документа  
-```
-https://kodaktor.ru/g/xsl_intro
-
-
-```
-JSON-INTRO    
-Схема JSON-документа  
-```
-https://kodaktor.ru/g/json_intro
-
-
-```
-JSIN-001
-Вводное задание по JavaScript
-```
-https://kodaktor.ru/jsin_001
-
-
-
-```
-TERN-001
-Задание на тернарный оператор
-```
-https://kodaktor.ru/tern_001
-
-
-```
-FUNC-001 ...  FUNC-010
-10 заданий по теме «Функции»
-```
-https://kodaktor.ru/func
-
-
-```
-IIFE-001
-Задание на IIFE
-```
-https://kodaktor.ru/g/iife
-
-
-
-```
-STARTASK
-Конкатенирующий редьюсер
-```
-https://kodaktor.ru/startask
-
-
-```
-TYPES_OUT
-Типизация массивов в JS
-```
-https://kodaktor.ru/types_out
-
-
-
-```
-IPS_TASK
-Обработка данных из массива в JS
-```
-https://kodaktor.ru/g/ips_task
-
-
-
-```
-JSND-001 
-Установка простейших зависимостей
-```
-https://kodaktor.ru/js01_intro_lr.pdf
-
-http://kodaktor.ru/js01-depend1.pdf
-
-http://kodaktor.ru/js01-depend2.pdf
-
-
-```
-RSCH-001
-Проведение микроисследования по языкам
-```
-
-https://kodaktor.ru/g/rsch_001
- 
-
-
-
-```
-ASYNC-TASKS
-Промисы и for await of
-```
-https://kodaktor.ru/async_tasks
-
-
-
-```
-EVNT_001
-События: управление слушателями
-```
-https://kodaktor.ru/g/evnt_001
-
-
-
-```
-EVNT_002
-События: кастомные события, коммуникация компонентов
-```
-https://kodaktor.ru/evnt_002
-
-
-
-```
-EVNT_003
-События: кастомные компоненты
-```
-https://kodaktor.ru/evnt_003
-
-
-
-```
-BABL_001
-Транспиляция: поля класса
-```
-https://kodaktor.ru/babl_001
-
-
-```
-BABL_002
-Транспиляция: bind
-```
-https://kodaktor.ru/babl_002
-
-
-
-```
-ITER-001
-Итерабельность
-```
-https://kodaktor.ru/iter_001
-
-
-```
-WEBPACK – BNDL-001
-```
-https://kodaktor.ru/g/bndl_001
-
-
-
-```
-FRMW_00*
-задания по react, vue, material design
-
-https://kodaktor.ru/g/state – обзор концепций, связанных с состоянием и хранилищем
-
-https://kodaktor.ru/frmw_001 – введение и двустороннее связывание на React
-https://kodaktor.ru/frmw_002 – введение во Vue
-https://kodaktor.ru/frmw_003... frmw_005
-https://kodaktor.ru/frmw_006 – введение в ELM
-https://kodaktor.ru/frmw_007 – Material UI
 
 https://kodaktor.ru/redux_intro – введение в Redux
 https://kodaktor.ru/effector_intro – введение в Effector (⚡️framework-agnostic)
+   и реконструкция kodaktor.ru/g/book
 
-связующее звено с материалом следующего семестра – клиентский роутер
-
-```
-
-```
-Проект YOU
-https://kodaktor.ru/you
-```
-
+связующее звено с материалом предыдущего семестра – состояние, клиентский роутер и SSR
 
 ```
-CANV_001
+ 
+public_secret https://kodaktor.ru/g/public09092019
 
-```
-Теория http://kodaktor.ru/cnvs/theory
-Задание http://kodaktor.ru/cnvs/lr_canvas_rates.pdf
-Визуалиация WebAudio http://kodaktor.ru/piterjs/nesterov
+модуль net
 
+бенчмаркинг
 
-```
-MIXER
-Разработка фронтэнд-примера на основе компонент и реактивности
-```
-https://kodaktor.ru/g/mixer
+создание докер-контейнера с портфолио
 
+telnet
 
+express
 
-```
-Материалы по перетаскиванию
-```
-https://kodaktor.ru/g/drop_intro
+CMS
 
+Moodle + SCORM
 
+middleware -> Express + Pug + ... + mongoose
 
-https://tests.org.ru
+Koa
 
-регистрация для экзаменационного тестирования
+streams + websockets, riew
 
+PassportJS
 
-https://ide.c9.io/gossoudarev/js-study1
+Асинхронное тестирование на Puppeteer
 
-kodent
+Создание бота на Node.js
+
+Django etc (Python ecosystem)
+
+PHP Ecosystem
+ 
+
+Темы на выступления и самостоятельный разбор:
+
+ * GraphQL vs REST
+ * Logux
+ * SailsJS
+ * NestJS
+ * Next.js / Nuxt
+ 
