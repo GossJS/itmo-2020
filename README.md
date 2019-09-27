@@ -26,7 +26,7 @@ https://kodaktor.ru/effector_intro – введение в Effector (⚡️frame
 связующее звено с материалом предыдущего семестра – состояние, клиентский роутер и SSR
 
 ```
-telnet
+http://kodaktor.ru/telnet
  
 appver + модуль net
  
@@ -41,7 +41,11 @@ json_server
 
 
 
-express
+**express**
+
+https://kodaktor.ru/spel_01
+
+https://kodaktor.ru/rss_task
 
 CMS
 
@@ -49,7 +53,7 @@ Moodle + SCORM
 
 middleware -> Express + Pug + ... + mongoose
 
-rss_task
+
 
 Koa
 
@@ -69,7 +73,7 @@ PHP Ecosystem
 
 ===
 
-blogger_task
+https://kodaktor.ru/blogger_task
  
 Темы на выступления и самостоятельный разбор:
 
