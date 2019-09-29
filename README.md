@@ -28,8 +28,6 @@ https://kodaktor.ru/effector_intro – введение в Effector (⚡️frame
 ```
 http://kodaktor.ru/telnet
  
-appver + модуль net
- 
 public_secret https://kodaktor.ru/g/public09092019
 
 
@@ -46,6 +44,12 @@ json_server
 https://kodaktor.ru/spel_01
 
 https://kodaktor.ru/rss_task
+
+https://kodaktor.ru/g/tmpl_002
+
+клиентский роутер – с. 135 пособия
+
+
 
 CMS
 
