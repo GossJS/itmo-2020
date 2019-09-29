@@ -217,10 +217,13 @@ https://kodaktor.ru/frmw_003... frmw_005
 https://kodaktor.ru/frmw_006 – введение в ELM
 https://kodaktor.ru/frmw_007 – Material UI
 
+https://kodaktor.ru/g/tmpl_001 - введение в шаблонизацию
+
 https://kodaktor.ru/redux_intro – введение в Redux
 https://kodaktor.ru/effector_intro – введение в Effector (⚡️framework-agnostic)
 
 связующее звено с материалом следующего семестра – клиентский роутер
+пособие, с. 135
 
 ```
 
@@ -254,11 +257,8 @@ https://kodaktor.ru/g/drop_intro
 
 
 
-https://tests.org.ru
+https://designifmo.ru
 
 регистрация для экзаменационного тестирования
 
 
-https://ide.c9.io/gossoudarev/js-study1
-
-kodent
