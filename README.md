@@ -33,9 +33,9 @@ public_secret https://kodaktor.ru/g/public09092019
 
 json_server
 
-бенчмаркинг
+бенчмаркинг kodaktor.ru/cluster
 
-создание докер-контейнера с портфолио
+создание докер-контейнера с портфолио  
 
 
 
@@ -59,6 +59,15 @@ middleware -> Express + Pug + ... + mongoose
 
 
 
+
+restify 
+Создание бота на Node.js https://kodaktor.ru/g/bots
+
+Асинхронное тестирование на Puppeteer, 
+  ⚡️ Cucumber / Cypress / Gherkin DSL ⚡️
+  kodaktor.ru/bdd-e2e.pdf
+
+
 Koa
 
 buffer
@@ -67,9 +76,6 @@ streams + websockets, riew
 
 PassportJS
 
-Асинхронное тестирование на Puppeteer
-
-Создание бота на Node.js
 
 Django etc (Python ecosystem)
 
