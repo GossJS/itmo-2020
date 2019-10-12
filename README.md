@@ -35,11 +35,13 @@ json_server
 
 бенчмаркинг kodaktor.ru/cluster
 
-создание докер-контейнера с портфолио  
+создание докер-контейнера с портфолио   https://kodaktor.ru/g/dockerportfolio
 
 
 
 **express**
+
+https://kodaktor.ru/g/23092019
 
 https://kodaktor.ru/spel_01
 
@@ -51,24 +53,16 @@ https://kodaktor.ru/g/tmpl_002
 
 
 
-CMS
-
-Moodle + SCORM
-
-middleware -> Express + Pug + ... + mongoose
-
-
-
-
-restify 
+kodaktor.ru/scorm
+ 
 Создание бота на Node.js https://kodaktor.ru/g/bots
 
 Асинхронное тестирование на Puppeteer, 
   ⚡️ Cucumber / Cypress / Gherkin DSL ⚡️
-  kodaktor.ru/bdd-e2e.pdf
+  https://kodaktor.ru/testing_new
 
 
-Koa
+--- 
 
 buffer
 
