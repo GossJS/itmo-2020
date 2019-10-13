@@ -71,9 +71,23 @@ streams + websockets, riew
 PassportJS
 
 
-Django etc (Python ecosystem)
+
+===
+
 
 PHP Ecosystem
+  https://kodaktor.ru/g/php_intro
+  Это выравнивающий микрокурс для тех, кто не работал с PHP
+  Его следует пройти до 10 ноября 2019 г.
+
+
+===
+
+
+
+Django etc (Python ecosystem)
+
+
 
 ===
 
