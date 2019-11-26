@@ -8,6 +8,8 @@ https://kodaktor.ru/05042019
 
 Само учебное пособие: https://e.lanbook.com/book/118648 (доступно в сети Университета)
 
+Экзаменационный тест (14.01.2019, 16.01.2019, 20.01.2019) – см. внизу страницы
+
 
 # Задания
 
@@ -220,8 +222,7 @@ https://kodaktor.ru/blogger_task
 
 **V. Экзаменационное тестирование**
 
-на сервере design.ifmo.ru
-
+https://designifmo.ru/moodle/course/view.php?id=56
 
 
 
