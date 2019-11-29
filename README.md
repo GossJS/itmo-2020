@@ -96,9 +96,13 @@ https://kodaktor.ru/j/koax
 
 🔹https://kodaktor.ru/g/tmpl_002
 
- 
+--- 
 
 🔹 Создание бота на Node.js https://kodaktor.ru/g/bots
+
+🔹 ⚡️ Создание наносервиса на serverless https://kodaktor.ru/g/29112019
+
+---
 
 🔹Асинхронное тестирование на Puppeteer, 
   ⚡️ Cucumber / Cypress / Gherkin DSL ⚡️
