@@ -186,16 +186,6 @@ https://github.com/GossJS/riew
 
 ---
 
-
-
-*10. Django etc (Python ecosystem)*
-
-Практические занятия Николая Жукова
-
-
-
----
-
 ---
 
 ---
@@ -203,6 +193,8 @@ https://github.com/GossJS/riew
 **III. Итоговое задание** для экзамена
 
 https://kodaktor.ru/blogger_task
+
+с аутентификацией для удаления и редактирования постов
 
 
 
@@ -216,9 +208,7 @@ https://kodaktor.ru/blogger_task
 
  * GraphQL vs REST (Илья Волков, пятница 15.11.2019)
  * Logux
- * SailsJS
- * NestJS
- * Next.js / Nuxt
+ * альтернативные фреймворки и библиотеки
 
 
 
