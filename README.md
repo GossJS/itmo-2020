@@ -1,10 +1,12 @@
-# ifmo-2019
+# ifmo-2020
 
 Каждое занятие сопровождается доской кодактора с соответствующим URL, например
 
-https://kodaktor.ru/05042019
+https://kodaktor.ru/05022019
 
 Материалы  учебного пособия: https://kodaktor.ru/intro
+
+https://node-server.online/m/course/view.php?id=3
 
 Само учебное пособие: https://e.lanbook.com/book/118648 (доступно в сети Университета)
 
@@ -254,11 +256,5 @@ https://kodaktor.ru/g/mixer
 Материалы по перетаскиванию
 ```
 https://kodaktor.ru/g/drop_intro
-
-
-
-https://designifmo.ru
-
-регистрация для экзаменационного тестирования
 
 
