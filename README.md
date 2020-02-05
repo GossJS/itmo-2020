@@ -6,7 +6,7 @@ https://kodaktor.ru/05022020
 
 Материалы  учебного пособия: https://kodaktor.ru/intro
 
-https://node-server.online/m/course/view.php?id=3
+Курс с тестированием: https://node-server.online/m/course/view.php?id=3
 
 Само учебное пособие: https://e.lanbook.com/book/118648 (доступно в сети Университета)
 
